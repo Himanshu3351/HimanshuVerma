@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+THimanshu Verma (4398766) — Text can be bold, italic, or strikethrough.
+
 
 [Link to another page](./another-page.html).
 

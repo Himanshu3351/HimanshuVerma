@@ -2,7 +2,7 @@
 layout: default
 ---
 
-THimanshu Verma (4398766) — Text can be bold, italic, or strikethrough.
+Himanshu Verma (4398766) — Text can be bold, italic, or strikethrough.
 
 
 [Link to another page](./another-page.html).
